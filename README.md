@@ -1,2 +1,2 @@
 # spring-reddit
-Back-end for reddit app
+Back-end for a reddit application
